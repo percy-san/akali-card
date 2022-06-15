@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Friz Quadrata';
+    src: local('Friz Quadrata Regular'), local('Friz-Quadrata-Regular'),
+        url('FrizQuadrataStd.woff2') format('woff2'),
+        url('FrizQuadrataStd.woff') format('woff'),
+        url('FrizQuadrataStd.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
