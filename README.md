@@ -1,31 +1,37 @@
-# title(){return this.options.title||this.options.name}
+# Akali Profile card
 
-Quick start:
+## Table of contents
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+- [Overview](#overview)
+  - [Description](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
-```
-$ yarn watch # npm run watch
-```
+## Overview
 
-## Supporting Scrimba
+### Description
+This is a simple ame character description card for Akali from League of Legends.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+### Links
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL:(https://crowdfund-challange.vercel.app/)
 
-	It would also mean the world to us if you share the courses.  
+## My process
 
-Happy Coding!
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- [React](https://reactjs.org/) - JS library
+
+## Author
+
+- Website - [Buhlebethu Mkhonta](https://www.your-site.com)
+
+
