@@ -19,8 +19,7 @@ This is a simple ame character description card for Akali from League of Legends
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:(https://crowdfund-challange.vercel.app/)
+- Solution URL: [https://scrimba.com/scrim/cKNRQ9cB]
 
 ## My process
 
